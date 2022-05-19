@@ -166,7 +166,7 @@ Lessons will be released weekly and each one will include:
 - `intuition`: high level overview of the concepts that will be covered and how it all fits together.
 - `code`: simple code examples to illustrate the concept.
 - `application`: applying the concept to our specific task.
-- `extensions`: brief look at other tools and techniques that will be useful for difference situations.
+- `extensions`: brief look at other tools and techniques that will be useful in different situations.
 
 ### What makes this content unique?
 - `hands-on`: If you search production ML or MLOps online, you'll find great blog posts and tweets. But in order to really understand these concepts, you need to implement them. Unfortunately, you don’t see a lot of the inner workings of running production ML because of scale, proprietary content & expensive tools. However, Made With ML is free, open and live which makes it a perfect learning opportunity for the community.
